@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML , Deep learning, etc.**
 
-- 👯 I’m looking to collaborate **With People**
+- 👯 I’m looking to collaborate **With People who intrested in AI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/naitik-patidar?tab=repositories](https://github.com/naitik-patidar?tab=repositories)
 
