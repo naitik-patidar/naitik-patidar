@@ -1,4 +1,4 @@
-name: Generate Mario Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -8,12 +8,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: pozil/mario-runner-contribution-graph@v1
+      - uses: Platane/snk@v3
         with:
           github_user_name: naitik-patidar
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
-          commit_message: "Update Mario animation"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
