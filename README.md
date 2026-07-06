@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 About Me
 
 I'm **Naitik Patidar**, a passionate **AI/ML Student from India** 
