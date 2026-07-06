@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Naitik+Patidar;Passionate+AI%2FML+Student+from+India;Building+Intelligent+Systems;Full+Stack+AI+Developer)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
