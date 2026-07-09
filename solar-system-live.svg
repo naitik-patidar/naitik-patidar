@@ -1,6 +1,6 @@
 <svg width="100%" viewBox="0 0 860 360" role="img" xmlns="http://www.w3.org/2000/svg">
 <title>Live solar system — naitik-patidar</title>
-<desc>Planets orbit faster when naitik-patidar commits more. Updated 2026-07-08 03:18 UTC.</desc>
+<desc>Planets orbit faster when naitik-patidar commits more. Updated 2026-07-09 03:49 UTC.</desc>
 <defs>
   <style>
     .orbit { fill: none; stroke: #6AD3F7; stroke-width: 0.4; opacity: 0.2; }
@@ -9,7 +9,7 @@
     .stat-val  { font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; fill: #6AD3F7; font-weight: bold; opacity: 0.95; }
     .updated { font-family: 'Fira Code', 'Courier New', monospace; font-size: 8px; fill: #6AD3F7; opacity: 0.25; }
 
-    .mercury-g { transform-origin: 170px 185px; animation: spin 6.3s linear infinite; }
+    .mercury-g { transform-origin: 170px 185px; animation: spin 6.6s linear infinite; }
     .venus-g   { transform-origin: 170px 185px; animation: spin 4.0s linear infinite; }
     .earth-g   { transform-origin: 170px 185px; animation: spin 6.0s linear infinite; }
     .mars-g    { transform-origin: 170px 185px; animation: spin 9.0s linear infinite; }
@@ -126,10 +126,10 @@
 <line x1="510" y1="102" x2="810" y2="102" stroke="#6AD3F7" stroke-width="0.3" opacity="0.3"/>
 
 <text x="520" y="130" class="stat-lbl">this week</text>
-<text x="800" y="130" class="stat-val" text-anchor="end">8</text>
+<text x="800" y="130" class="stat-val" text-anchor="end">7</text>
 
 <text x="520" y="162" class="stat-lbl">this month</text>
-<text x="800" y="162" class="stat-val" text-anchor="end">70</text>
+<text x="800" y="162" class="stat-val" text-anchor="end">68</text>
 
 <text x="520" y="194" class="stat-lbl">total (year)</text>
 <text x="800" y="194" class="stat-val" text-anchor="end">224</text>
@@ -141,5 +141,5 @@
 <text x="520" y="268" class="stat-lbl" opacity="0.4">more commits = faster orbits</text>
 
 <!-- Updated timestamp -->
-<text x="430" y="350" class="updated" text-anchor="middle">updated 2026-07-08 03:18 UTC · solar system · naitik-patidar</text>
+<text x="430" y="350" class="updated" text-anchor="middle">updated 2026-07-09 03:49 UTC · solar system · naitik-patidar</text>
 </svg>
