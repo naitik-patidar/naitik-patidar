@@ -3,7 +3,7 @@
 I'm **Naitik Patidar**, a passionate **AI/ML Student from India** 
 
 🎯 Currently focused on developing expertise in **Machine Learning**,
-**Deep Learning**, **LLM's , Agentic AI**, and **Full Stack AI** development.
+**Deep Learning**, **LLM's , Agentic AI**, **Full Stack AI** development and Marketing.
 
 🤝 Open to collaborating with fellow AI enthusiasts, researchers, and
 developers who are pushing the boundaries of what's possible with AI.
